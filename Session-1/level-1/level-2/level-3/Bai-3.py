@@ -1,0 +1,1 @@
+print('Đây là bài tập 3')
